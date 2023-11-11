@@ -1,1 +1,2 @@
-# 실전! querydsl
+# 김영한님 인프런 강의
+실전! querydsl
